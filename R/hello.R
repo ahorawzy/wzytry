@@ -14,6 +14,7 @@
 #   Test Package:              'Ctrl + Shift + T'
 
 hello <- function() {
+  print("just a try")
   print("Hello, world!")
   print("modified by wzy")
 }
