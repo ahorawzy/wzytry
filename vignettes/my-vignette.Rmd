@@ -1,6 +1,6 @@
 ---
 title: "Guide for wzytry"
-author: "Wang Zhiyuan"
+author: "ZhiYuan Wang"
 date: "`r Sys.Date()`"
 output: rmarkdown::html_vignette
 vignette: >

@@ -8,7 +8,8 @@
 #' @examples
 #' add(1, 1)
 #' add(10, 1)
+
 #' @export
 wzyadd <- function(x, y) {
-  x + y
+    x + y
 }
