@@ -1,6 +1,6 @@
 Package: wzytry
 Type: Package
-Title: some experiments of creating package by wzy
+Title: some experiments of creating R package by wzy
 Version: 0.1.0
 Author@R: person("Wang","ZhiYuan",email="lzyz09193@163.com",role=c("aut","cre"))
 Description: Do some experiments from the book "R packages" of skills ablout 
